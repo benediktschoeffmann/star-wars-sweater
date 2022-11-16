@@ -1,6 +1,6 @@
 ### Possible sources for knitting needles: 
-    * check Tamsy's preferred materiel. Apparently it is quite common to use bamboo, altough there are also ones made from aluminium, which I wouldn't really want, environoment-wise.
-    * there is a measurement called "needle size" ("Nadelstärke") in german. As far as i can tell, these are the "needle sizes" for the requested thickness:
+* check Tamsy's preferred materiel. Apparently it is quite common to use bamboo, altough there are also ones made from aluminium, which I wouldn't really want, environoment-wise.
+* there is a measurement called "needle size" ("Nadelstärke") in german. As far as i can tell, these are the "needle sizes" for the requested thickness:
 
 | thickness 	| needle size 	|
 |:---------:	|:-----------:	|

@@ -24,7 +24,7 @@ I got a shopping list from Tamsy, and hope to  fulfill it  real soon.
     * average yarn count (thread size)
       100% Merino superwash
       200m/100g
-      - do la Bean Yarn Co. Kidney Bean
+      - Lola Bean Yarn Co. - Kidney Bean
 
     * main color: Darkness Falls (black) 6 strands
     * first contrast: Chromatic (grey) 1 strand
